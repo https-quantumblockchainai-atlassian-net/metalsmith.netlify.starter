@@ -26,6 +26,7 @@ Based on the Metalsmith blog starter. This starter is setup for content editing 
 ## Try it out now
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/wernerglinka/metalsmith-netlify-starter)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fmetalsmith.netlify.starter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fmetalsmith.netlify.starter?ref=badge_shield)
 
 Simply deploy a copy of the demo website to your Netlify account by clicking the button.  If you don't have an account, you can create one during this process. Netlify has a generous free tier, no credit card needed. 
 
@@ -121,6 +122,9 @@ A quick look at the top-level files and directories you'll see in this Metalsmit
 
 12. **`README.md`**: A text file containing useful reference information about your project.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fmetalsmith.netlify.starter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fmetalsmith.netlify.starter?ref=badge_large)
+
 ## Learn more about Metalsmith
 
 Looking for more guidance? Full documentation for Metalsmith can be found [on the website](https://www.metalsmith.io). 
@@ -134,4 +138,4 @@ Here is an article about [how to deploy Metalsmith on Netlify](https://www.netli
 ## Need help?
 For getting help with setting up Netlify CMS, you may want to reach out to the Netlify team. [![Gitter](https://badges.gitter.im/netlify/netlify.svg)](https://gitter.im/netlify/NetlifyCMS)
 
-To discuss all-things Metalsmith, please join the Metalsmith community at [![Gitter](https://badges.gitter.im/netlify/netlify.svg)](https://gitter.im/metalsmith/community) 
+To discuss all-things Metalsmith, please join the Metalsmith community at [![Gitter](https://badges.gitter.im/netlify/netlify.svg)](https://gitter.im/metalsmith/community)
